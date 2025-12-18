@@ -11,13 +11,13 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 7ms | Memory 17.66mb | Passed
 ---
-[]("Python\.py")
+[387. First Unique Character in a String]("Python\387.py")
 - Language:
     - Python
 - Description:
-    - 
+    - Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
 - Result:
-    - Runtime ms | Memory mb | Passed
+    - Runtime 52ms | Memory 18.12mb | Passed
 ---
 
 ---

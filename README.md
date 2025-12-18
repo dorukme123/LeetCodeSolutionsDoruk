@@ -19,5 +19,15 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 52ms | Memory 18.12mb | Passed
 ---
-
+[2974. Minimum Number Game]("Python\2974.py")
+- Language:
+    - Python
+- Description:
+    - You are given a 0-indexed integer array nums of even length and there is also an empty array arr. Alice and Bob decided to play a game where in every round Alice and Bob will do one move. The rules of the game are as follows:
+        - Every round, first Alice will remove the minimum element from nums, and then Bob does the same.
+        - Now, first Bob will append the removed element in the array arr, and then Alice does the same.
+        - The game continues until nums becomes empty.
+    - Return the resulting array arr.
+- Result:
+    - Runtime 7ms | Memory 17.22mb | Passed
 ---

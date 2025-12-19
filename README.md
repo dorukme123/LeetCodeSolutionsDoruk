@@ -50,11 +50,12 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 4ms | Memory 17.49mb | Passed
 ---
-[]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/.py")
+[2520. Count the Digits That Divide a Number]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/2520.py")
 - Language:
     - Python
 - Description:
-    - 
+    - Given an integer num, return the number of digits in num that divide num.
+    - An integer val divides nums if nums % val == 0.
 - Result:
-    - Runtime ms | Memory mb | Passed
+    - Runtime 0ms | Memory 17.21mb | Passed
 ---

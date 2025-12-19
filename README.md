@@ -3,7 +3,7 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 
 ---
 ## Easy:
-[258. Add Digits]("Python\258.py")
+[258. Add Digits]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/258.py")
 - Language:
     - Python
 - Description:
@@ -11,7 +11,7 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 7ms | Memory 17.66mb | Passed
 ---
-[387. First Unique Character in a String]("Python\387.py")
+[387. First Unique Character in a String]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/387.py")
 - Language:
     - Python
 - Description:
@@ -19,7 +19,7 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 52ms | Memory 18.12mb | Passed
 ---
-[2974. Minimum Number Game]("Python\2974.py")
+[2974. Minimum Number Game]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/974.py")
 - Language:
     - Python
 - Description:
@@ -31,7 +31,7 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 7ms | Memory 17.22mb | Passed
 ---
-[1832. Check if the Sentence Is Pangram]("Python\1832.py")
+[1832. Check if the Sentence Is Pangram]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/1832.py")
 - Language:
     - Python
 - Description:
@@ -39,4 +39,22 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
     - Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
 - Result:
     - Runtime 0ms | Memory 17.23mb | Passed
+---
+[2114. Maximum Number of Words Found in Sentences]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/2114.py")
+- Language:
+    - Python
+- Description:
+    - A sentence is a list of words that are separated by a single space with no leading or trailing spaces.
+    - You are given an array of strings sentences, where each ```sentences[i]``` represents a single sentence.
+    - Return the maximum number of words that appear in a single sentence.
+- Result:
+    - Runtime 4ms | Memory 17.49mb | Passed
+---
+[]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/.py")
+- Language:
+    - Python
+- Description:
+    - 
+- Result:
+    - Runtime ms | Memory mb | Passed
 ---

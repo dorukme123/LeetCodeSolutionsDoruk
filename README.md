@@ -59,3 +59,12 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 0ms | Memory 17.21mb | Passed
 ---
+[2108. Find First Palindromic String in the Array]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/2108.py")
+- Language:
+    - Python
+- Description:
+    - Given an array of strings ```words```, return the first palindromic string in the array. If there is no such string, return an empty string ```""```.
+    - A string is palindromic if it reads the same forward and backward.
+- Result:
+    - Runtime 3ms | Memory 17.59mb | Passed
+---

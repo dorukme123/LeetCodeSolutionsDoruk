@@ -79,3 +79,13 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 3ms | Memory 17.24mb | Passed
 ---
+[3232. Find if Digit Game Can Be Won]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/3232.py")
+- Language:
+    - Python
+- Description:
+    - You are given an array of positive integers ```nums```.
+    - Alice and Bob are playing a game. In the game, Alice can choose either all single-digit numbers or all double-digit numbers from ```nums```, and the rest of the numbers are given to Bob. Alice wins if the sum of her numbers is strictly greater than the sum of Bob's numbers.
+    - Return ```true``` if Alice can win this game, otherwise, return ```false```.
+- Result:
+    - Runtime 0ms | Memory 17.45mb | Passed
+---

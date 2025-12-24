@@ -100,3 +100,15 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 15ms | Memory 17.73mb | Passed
 ---
+[2535. Difference Between Element Sum and Digit Sum of an Array]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/2535.py")
+- Language:
+    - Python
+- Description:
+    - You are given a positive integer array ```nums```.
+    - The **element sum** is the sum of all the elements in ```nums```.
+    - The **digit sum** is the sum of all the digits (not necessarily distinct) that appear in ```nums```.
+    - Return the **absolute** difference between the element sum and digit sum of ```nums```.
+    - **Note** that the absolute difference between two integers ```x``` and ```y``` is defined as ```|x - y|```.
+- Result:
+    - Runtime 19ms | Memory 17.94mb | Passed
+---

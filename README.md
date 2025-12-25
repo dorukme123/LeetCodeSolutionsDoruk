@@ -112,3 +112,12 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 19ms | Memory 17.94mb | Passed
 ---
+[2652. Sum Multiples]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/2652.py")
+- Language:
+    - Python
+- Description:
+    - Given a positive integer ```n```, find the sum of all integers in the range ```[1, n]``` inclusive that are divisible by ```3```, ```5```, or ```7```.
+    - Return an integer denoting the sum of all numbers in the given range satisfying the constraint.
+- Result:
+    - Runtime 20ms | Memory 17.60mb | Passed
+---

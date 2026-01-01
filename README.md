@@ -133,3 +133,13 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 0ms | Memory 17.20mb | Passed
 ---
+[2942. Find Words Containing Character]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/3024.py")
+- Language:
+    - Python
+- Description:
+    - You are given a 0-indexed array of strings ```words``` and a character ```x```.
+    - Return an **array of indices** representing the words that contain the character ```x```.
+    - **Note** that the returned array may be in **any** order.
+- Result:
+    - Runtime 3ms | Memory 17.54mb | Passed
+---

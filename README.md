@@ -133,7 +133,7 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 0ms | Memory 17.20mb | Passed
 ---
-[2942. Find Words Containing Character]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/3024.py")
+[2942. Find Words Containing Character]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/2942.py")
 - Language:
     - Python
 - Description:
@@ -142,4 +142,29 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
     - **Note** that the returned array may be in **any** order.
 - Result:
     - Runtime 3ms | Memory 17.54mb | Passed
+---
+[709. To Lower Case]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/709.py")
+- Language:
+    - Python
+- Description:
+    - Given a string ```s```, return the string after replacing every uppercase letter with the same lowercase letter.
+- Result:
+    - Runtime 0ms | Memory 17.42mb | Passed
+---
+[1672. Richest Customer Wealth]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/1672.py")
+- Language:
+    - Python
+- Description:
+    - You are given an ```m x n``` integer grid accounts where ```accounts[i][j]``` is the amount of money the ```i​​​​​​​​​​​th​​​```​ customer has in the ```j​​​​​​​​​​​th​​​​``` bank. Return the **wealth** that the richest customer has.
+    - A customer's **wealth** is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum **wealth**.
+- Result:
+    - Runtime 0ms | Memory 17.30mb | Passed
+---
+[1550. Three Consecutive Odds]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/1550.py")
+- Language:
+    - Python
+- Description:
+    - Given an integer array ```arr```, return ```true``` if there are three consecutive odd numbers in the array. Otherwise, return ```false```. 
+- Result:
+    - Runtime 0ms | Memory 17.37mb | Passed
 ---

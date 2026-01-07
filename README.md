@@ -178,3 +178,15 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 0ms | Memory 19.16mb | Passed
 ---
+[2894. Divisible and Non-divisible Sums Difference]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/2894.py")
+- Language:
+    - Python
+- Description:
+    - You are given positive integers ```n``` and ```m```.
+    - Define two integers as follows:
+        - ```num1```: The sum of all integers in the range ```[1, n]``` (both inclusive) that are not divisible by ```m```.
+        - ```num2```: The sum of all integers in the range ```[1, n]``` (both inclusive) that are divisible by ```m```.
+    - Return the integer ```num1 - num2```.
+- Result:
+    - Runtime 3ms | Memory 19.22mb | Passed
+---

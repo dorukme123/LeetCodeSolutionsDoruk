@@ -190,3 +190,11 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 3ms | Memory 19.22mb | Passed
 ---
+[977. Squares of a Sorted Array]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/977.py")
+- Language:
+    - Python
+- Description:
+    - Given an integer array ```nums``` sorted in **non-decreasing** order, return an array of **the squares of each number** sorted in non-decreasing order.
+- Result:
+    - Runtime 9ms | Memory 21.12mb | Passed
+---

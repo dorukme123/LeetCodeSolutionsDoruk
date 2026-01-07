@@ -168,3 +168,13 @@ Respository for saving my LeetCode solutions from easy -> medium -> hard
 - Result:
     - Runtime 0ms | Memory 17.37mb | Passed
 ---
+[1486. XOR Operation in an Array]("https://github.com/dorukme123/LeetCodeSolutionsDoruk/blob/main/Python/1486.py")
+- Language:
+    - Python
+- Description:
+    - You are given an integer ```n``` and an integer ```start```. 
+    - Define an array ```nums``` where ```nums[i] = start + 2 * i``` **(0-indexed)** and ```n == nums.length```.
+    - Return the bitwise XOR of all elements of ```nums```.
+- Result:
+    - Runtime 0ms | Memory 19.16mb | Passed
+---
